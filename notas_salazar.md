@@ -27,3 +27,4 @@
 - Ciudadano es guerrero.
 - "mas como aquella de los antiguos, los cuales criauan la caualleria de sus subditos, y en el tiempo de la paz los embiauan a sus casas a biuir de su hazienda, o arte, como mas largamente antes que acabe este razonamiento disputare" (30)
 > La palabra caballería, en este párrafo, merece una atención particular. Es algo que se "cría" - valor educativo de la caballería misma, del arte militar; desaparición de la violencia, de alguna manera. Nos hemos olvidado que en esto, sí, la gente se muere.
+- "el fin de quien quiere hacer guerra es poder combatir con qualsequiera enemigos en el campo, y poder vencer una batalla."  (31)
