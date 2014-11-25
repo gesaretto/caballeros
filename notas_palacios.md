@@ -27,3 +27,25 @@
 	- Este es el momento en que se rompe una de las líneas constitutivas de la _fábula caballeresca_: si antes el héroe era exiliado o alejado de su poder, y tenía que reconstruirlo a través de su virtud, ahora manca esa premisa inicial; cada hombre es un héroe exiliado o alejado de su poder (del _linaje_) - la tarea de cada hombre es acercarse a una __virtud__ ideal y alcanzable, siguiendo el enseñamento de la literatura y de la historia.
 	- (87-44) escoger el sufrimiento.
 		Porque lo segundo es cosa natural y propria de la natura, que no se puede escusar. Lo primero es proprio del hombre fuerte o esforzado, por eso lo toma y escoge.
+	- Temer el mal.
+	- La __osadia__ (la característica del que __osa__). El libro se vuelve una descripción de carácteres fijos, de máscaras parecidas a le da comedia del arte - el _timido_, el _prodigo_, el _osado_, el _avariento_.
+	- Diferencia sustancial entre __miedo__ (justificado pero vencible, necesario para la violencia) y el __temor__ (injustificado, femenino).
+6. Capítulos XIII-XX
+	- Colocación de la virtud bélica adentro de un más extenso sistema ético; para que un hombre pueda decirse "esforzado", sus acciones deben conformarse a la ética tanto en los fines como en los medios. Extraña perversión providencial - los que actuan por malos medios terminan mal ("il fine __non__ giustifica i mezzi").
+	- De una manera, lo exacto opuesto respeto a Machiavelli: aquí no se habla de _cómo vencer_ sino de _cómo vencer_ __bien__.
+	- Página 67 - 110: aparece __Dios__.
+	- Página 68 - 111: "por amores de alguna muger"; separación entre lo erótico y lo guerrero - la fundación del poema de caballerías tradicional. La justificación es la común idea católica - el hombre no posee su propio cuerpo.
+7. Capítulos XX-XXIII
+	- En general, se sigue definiendo al esfuerzo en __negativo__, mencionando todas las circunstancias en las que no se puede hablar de _esfuerzo_.
+8. Capítulo XXIV
+		Quando la cosa grave, dificile, terrible y peligrosa se representa a los sentidos corporales exteriores y interiores, entra por ellos al anima como por ventanas, para que la sienta; y sentida, luego se inclina a querer lo que conviene [...]
+	- Se empieza una teoría de la percepción humana - de que manera el hombre transforma un estímulo exterior en una reacción interior. La pregunta es legítima - ¿de dónde nace una reacción al temor, una resistencia al temor, cuál es el instante en la máquina sensible de un hombre que le permite alejar de sí un instinto espontáneo?
+	- El discurso se vuelve otra vez anatómico, microscópico - con una extraña combinación de alegoría ética, proto-psicología y ciencia: seguimos a estas pequeñas componentes de la interioridad humana en sus relaciones.
+9. Capítulo XXXI
+	- Hay, obviamente, también un esfuerzo léxico: se trata de definiciones, de individuar y diferenciar términos que podríamos considerar, al principio, sinónimos.
+		O si la virgen no se dexo corromper por semejantes amenazas o miedos, no se dira muger fuerte o esforzada; porque no estaba el temor de la muerte presente: que si de presente estuviese, y algun hombre, de quien verdaderamente se cree, que hara lo que dice...
+10. Capítulo XXXII
+	- (155-114-157-116) Anatomía de la voluntad misma; subdivisión de la voluntad en cada una de sus componentes esenciales. Para determinar el esfuerzo es necesario determinar la voluntad - de una manera, contar la voluntad. N.B.: la traducción alemana de __esfuerzo__ es __streben__.
+	- La verdadera fortaleza "pertenece a los caudillos y a los capitanes"; esfuerzo y __autoridad__; esfuerzo adentro de una estructura jerárquica.
+11. Capítulo XXXVIII
+	- "Darle __gracias a Dios__." Una perspectiva teológica.
